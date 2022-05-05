@@ -2,6 +2,13 @@
 
 All notable changes to this project will be documented in this file. See [standard-version](https://github.com/conventional-changelog/standard-version) for commit guidelines.
 
+## [0.3.0](https://github.com/haochen23/test-versioning-changelog/compare/v0.2.0...v0.3.0) (2022-05-05)
+
+
+### Features
+
+* **tag-on-branch:** add a tag on a branch ([35507ca](https://github.com/haochen23/test-versioning-changelog/commit/35507caf18dd1ed2fb1705519b0a1557927d63ea))
+
 ## [0.2.0](https://github.com/haochen23/test-versioning-changelog/compare/v0.1.0...v0.2.0) (2022-05-05)
 
 
