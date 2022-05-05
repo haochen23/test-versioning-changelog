@@ -2,6 +2,13 @@
 
 All notable changes to this project will be documented in this file. See [standard-version](https://github.com/conventional-changelog/standard-version) for commit guidelines.
 
+### [0.3.1](https://github.com/haochen23/test-versioning-changelog/compare/v0.3.0...v0.3.1) (2022-05-05)
+
+
+### Bug Fixes
+
+* **README:** add missing instructions ([531911b](https://github.com/haochen23/test-versioning-changelog/commit/531911b17528dee3a766eaee33f898e3930e3aa7))
+
 ## [0.3.0](https://github.com/haochen23/test-versioning-changelog/compare/v0.2.0...v0.3.0) (2022-05-05)
 
 
