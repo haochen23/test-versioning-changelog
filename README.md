@@ -1,5 +1,11 @@
 # test-versioning-changelog
 
+## Pre-release initiation
+
+```bash
+standard-version --release-as 0.1.0
+```
+
 ## Refs:
 
 1. https://www.conventionalcommits.org/en/v1.0.0/
