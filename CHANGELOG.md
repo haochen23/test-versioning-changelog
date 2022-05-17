@@ -2,6 +2,20 @@
 
 All notable changes to this project will be documented in this file. See [standard-version](https://github.com/conventional-changelog/standard-version) for commit guidelines.
 
+### [0.4.1](https://github.com/haochen23/test-versioning-changelog/compare/v0.4.0...v0.4.1) (2022-05-17)
+
+
+### Bug Fixes
+
+* add a line in test file ([6d01f2a](https://github.com/haochen23/test-versioning-changelog/commit/6d01f2a3da0c5181f5c5705c4a8c6ab59f81423c))
+
+## [0.4.0](https://github.com/haochen23/test-versioning-changelog/compare/v0.3.1...v0.4.0) (2022-05-17)
+
+
+### Features
+
+* add a test file ([e7901db](https://github.com/haochen23/test-versioning-changelog/commit/e7901dbaa39a2463edab6dccdbc3b91f046eef19))
+
 ### [0.3.1](https://github.com/haochen23/test-versioning-changelog/compare/v0.3.0...v0.3.1) (2022-05-05)
 
 
